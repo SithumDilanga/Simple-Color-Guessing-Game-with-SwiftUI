@@ -1,10 +1,3 @@
-//
-//  flip_card_5_gptUITestsLaunchTests.swift
-//  flip card 5 gptUITests
-//
-//  Created by Mirissa Wellalage　Tashmika Isuri on 2024/01/15.
-//
-
 import XCTest
 
 final class flip_card_5_gptUITestsLaunchTests: XCTestCase {
