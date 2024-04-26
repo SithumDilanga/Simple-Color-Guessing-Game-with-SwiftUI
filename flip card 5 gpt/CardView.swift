@@ -1,10 +1,3 @@
-//
-//  CardView.swift
-//  flip card 5 gpt
-//
-//  Created by Mirissa Wellalage　Tashmika Isuri on 2024/02/07.
-//
-
 import Foundation
 import SwiftUI
 
