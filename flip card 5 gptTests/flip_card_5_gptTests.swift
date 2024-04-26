@@ -1,10 +1,3 @@
-//
-//  flip_card_5_gptTests.swift
-//  flip card 5 gptTests
-//
-//  Created by Mirissa Wellalage　Tashmika Isuri on 2024/01/15.
-//
-
 import XCTest
 @testable import flip_card_5_gpt
 
